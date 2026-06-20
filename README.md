@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning for Deep Learning 
 - 💞️ I’m looking to collaborate on on my project of Reinforcement Learning integration on real world suitation and making simulation in unity.
 - 📫 for collabrating with me(for free😜)please mail on nautiyaldivyansh98@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Completely beginner.
 
 <!---
